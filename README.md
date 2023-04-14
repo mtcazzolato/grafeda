@@ -36,7 +36,7 @@ Following, we provide the ***features extracted*** and used in our work, for dat
 ***Download:***
 
 - **Table Patient**
-	- *Attributes:* Patient and Exam|[link](https://drive.google.com/drive/folders/1y2_SDW1AkUwVg64omU6isbVBOc2TSUT8?usp=sharing)  
+	- *Attributes:* Patient and Exam: [link](https://drive.google.com/drive/folders/1y2_SDW1AkUwVg64omU6isbVBOc2TSUT8?usp=sharing)  
  - **Table: Patient** 
 	- *Attributes:* Treatment and Exam: [link](https://drive.google.com/drive/folders/1ocjN148UsoFUJejChgAK_BjQ_9YIbABe?usp=sharing)   
 
