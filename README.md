@@ -11,8 +11,8 @@
 To setup and use a virtual environment, type in the Terminal:
 
 ```
-python -m venv tgrapp_venv  
-source tgrapp_venv/bin/activate  
+python -m venv grafeda_venv  
+source grafeda_venv/bin/activate  
 ```
 
 Install the requirements:
