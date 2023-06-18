@@ -176,9 +176,15 @@ def eda_tab():
             st.write("1-d Hists")
 
             figs_hist = [None] * len(config.columns_attributes_scatter_matrix)
+
+            colh_1, colh_2, colh_3 = st.columns(3)
+            cols = [colh_1, colh_2, colh_3]
+
             for i, feature in enumerate(config.columns_attributes_scatter_matrix):
                 figs_hist[i] = util.plot_histogram(feature)
-                st.pyplot(figs_hist[i])
+
+                with cols[int(i%3)]:
+                    st.pyplot(figs_hist[i])
 
         if config.flag_graph_constructed:
             with st.expander(label="Further details", expanded=True):
