@@ -12,7 +12,7 @@
 This work will be presented at the [IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023 - June 22 - 24 - L'Aquila, Italy.](https://2023.cbms-conference.org/) 
  
   
-## License Agreement and Citation Request:
+## License Agreement and Citation Request  
 
 *GraF-EDA* is available for researchers and data scientists under the GNU General Public License. In case of publication and/or public use of the available data and code, as well as any resource derived from it, one should acknowledge its creators by citing **the following paper** (the reference will be updated to its definitive version soon).
   
@@ -60,7 +60,28 @@ Run the app:
 make demo
 
   
-  
+## Demo  
+
+Feature extraction:  
+
+
+https://github.com/mtcazzolato/grafeda/assets/8514761/a0618f81-9abe-4290-9031-d5a1af401f0c
+
+
+Feature loading:  
+
+
+
+https://github.com/mtcazzolato/grafeda/assets/8514761/c14c59bb-1209-4f62-8109-065e885c009e
+
+
+EDA of extracted features:  
+
+
+
+https://github.com/mtcazzolato/grafeda/assets/8514761/4a4eb2bf-c416-4ed8-ba2c-37fbf8be05a8
+
+
 
 ## Dataset and Features
 
