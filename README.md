@@ -55,13 +55,16 @@ make demo
 ## Demo
 
 Feature extraction:
+
 https://github.com/mtcazzolato/grafeda/assets/8514761/a0618f81-9abe-4290-9031-d5a1af401f0c
 
 Feature loading:
+
 https://github.com/mtcazzolato/grafeda/assets/8514761/c14c59bb-1209-4f62-8109-065e885c009e
 
 
 EDA of extracted features:
+
 https://github.com/mtcazzolato/grafeda/assets/8514761/4a4eb2bf-c416-4ed8-ba2c-37fbf8be05a8
 
 
