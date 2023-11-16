@@ -18,13 +18,13 @@ This work was presented at the [IEEE 36th International Symposium on Computer Ba
 
 Bibtex:
 
-> @Inproceedings{10178818,
-> author={Cazzolato, Mirela T. and Gutierrez, Marco Antonio and Traina, Caetano and Faloutsos, Christos and Traina, Agma J.M.},
-> booktitle={2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)},
-> title={Exploratory Data Analysis in Electronic Health Records Graphs: Intuitive Features and Visualization Tools},
-> year={2023},   volume={},   number={},
-> pages={117-122},
-> doi={10.1109/CBMS58004.2023.00202}}
+> @Inproceedings{10178818,  
+> author={Cazzolato, Mirela T. and Gutierrez, Marco Antonio and Traina, Caetano and Faloutsos, Christos and Traina, Agma J.M.},  
+> booktitle={2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)},  
+> title={Exploratory Data Analysis in Electronic Health Records Graphs: Intuitive Features and Visualization Tools},  
+> year={2023},   volume={},   number={},  
+> pages={117-122},  
+> doi={10.1109/CBMS58004.2023.00202}}  
 
 ## Setup environment
 
@@ -76,13 +76,13 @@ Following, we provide the ***features extracted*** and used in our work, for dat
 
 ***Download:***
 
--  **Table Patient**
+-  **Table Patient**  
 --  *Attributes:* Patient and Exam: [link](https://drive.google.com/drive/folders/1y2_SDW1AkUwVg64omU6isbVBOc2TSUT8?usp=sharing)
 
--  **Table: Patient**
+-  **Table: Patient**  
 --  *Attributes:* Treatment and Exam: [link](https://drive.google.com/drive/folders/1ocjN148UsoFUJejChgAK_BjQ_9YIbABe?usp=sharing)
 
--  **Table: Outcome**
+-  **Table: Outcome**  
 --  *Attributes:* Clinic and Outcome: [link](https://drive.google.com/drive/folders/15Zy1QSMnutFdrgnCp7EOBn25hNYvikWB?usp=sharing)
 
 ## References
